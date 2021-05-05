@@ -827,10 +827,10 @@
   pages:
   - url: "general"
     pages:
-    - url: "Checking the Console"
+    - url: "checkingtheconsole"
   - url: "plugins"
-    pages: 
-    - url: "PowerPaste"
+    pages:
+    - url: "powerpaste"
 
 - url: "integrations"
   pages:

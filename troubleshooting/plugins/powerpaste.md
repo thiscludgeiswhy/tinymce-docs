@@ -5,7 +5,7 @@ title_nav: PowerPaste
 keywords: enterprise powerpaste power paste paste_as_text powerpaste_word_import powerpaste_html_import powerpaste_block_drop powerpaste_allow_local_images microsoft word excel troubleshooting errors
 ---
 
-# Frequently asked questions
+## Frequently asked questions
 
 ### What happens when copy and pasting from Microsoft Word?
 
@@ -39,25 +39,25 @@ This issue relates to changes to Microsoft Internet Explorer 11 late in the prod
 * Paste the images into {{site.productname}} individually.
 * Use a different browser.
 
-# Error messages
+## Error messages
 
-## "The images service was not found"
-
-
-## "Image failed to upload"
+### "The images service was not found"
 
 
-## "Local image paste has been disabled. Local images have been removed from pasted content."
+### "Image failed to upload"
 
 
-## "Some images failed to import."
+### "Local image paste has been disabled. Local images have been removed from pasted content."
 
 
-## "Unsupported image type."
+### "Some images failed to import."
 
 
-## "Image is invalid." 
+### "Unsupported image type."
 
 
-# Error codes
+### "Image is invalid."
+
+
+## Error codes
 something something if a banner appears check the console for error codes that point to specific kinds of errors. See [Checking the console](link) for how to check the console for each supported browser.
