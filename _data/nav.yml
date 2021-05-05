@@ -823,6 +823,15 @@
   - url: "keyboard-shortcuts"
   - url: "usage-with-module-loaders"
 
+- url: "troubleshooting"
+  pages:
+  - url: "general"
+    pages:
+    - url: "Checking the Console"
+  - url: "plugins"
+    pages: 
+    - url: "PowerPaste"
+
 - url: "integrations"
   pages:
   - url: "angularjs"
