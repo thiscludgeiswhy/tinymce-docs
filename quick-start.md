@@ -9,6 +9,8 @@ keywords: tinymce script textarea
 
 {{site.productname}} {{site.productmajorversion}} is a powerful and flexible rich text editor that can be embedded in web applications. This quick start covers how to add a {{site.productname}} editor to a web page using the {{site.cloudname}}.
 
+# Introduction
+
 ## Step 1: Include the TinyMCE script
 
 Include the following line of code in the `<head>` of a HTML page.
